@@ -1,2 +1,2 @@
 # PrimerProyecto
-Spring book con Flux
+Spring boot con Flux
